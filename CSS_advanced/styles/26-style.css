@@ -537,7 +537,7 @@ ul.row {
   height: 10rem;
 }
 
-.card-qoute .card-testimonial cite {
+.card-testimonial .card-qoute cite {
   display: block;
   padding-top: 1rem;
   color: var(--color-primary);
