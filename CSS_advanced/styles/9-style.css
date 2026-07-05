@@ -12,7 +12,8 @@ body {
 }
 
 a {
-    color: var(--color-primary);
+    color: var(--text-color);
+    text-decoration: none;
 }
 
 
