@@ -42,8 +42,8 @@ h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
-    margin:  var(--section-title-margin);
-    color: var(--section-title-colour);
+    margin: var(--section-title-margin);
+    color: var(--section-title-color);
 }
 
 .section-tagline {
@@ -75,5 +75,5 @@ h1, h2, h3, h4, h5, h6 {
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-colour: --color-black;
+    --section-title-color: --color-black;
 }
